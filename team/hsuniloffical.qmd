@@ -52,19 +52,22 @@ about:
 }
 </script>
 ```
+Dissemination Ops at iSRL — I work on making research actually move.
 
-Dissemination Ops at iSRL, working on how research gets communicated, structured, and actually reaches people in a usable form.
+Not just documenting it, but building the systems, workflows, and structures that take work from “done” to something usable, accessible, and out in the world.
 
-My focus is on turning complex work into clear, accessible outputs, through documentation, workflows, and structured content systems. I’m particularly interested in how information moves - from raw research to something people can understand, use, and build on.
+A lot of what I do sits in the messy middle — figuring things out when there’s no clear path. Whether it’s picking up unfamiliar tools like Quarto, testing until something works, or knowing when to push through versus when to ask, I focus on making things function reliably, not just theoretically.
 
-I’m also part of the technical team at Sahityika (the literary society) of IIT Madras, where I work on localization — contributing to making digital content more accessible across languages. I care deeply about breaking language barriers in digital experiences and enabling information to reach wider, more diverse audiences.
+My work is less about describing dissemination and more about making it happen — turning complex research into structured outputs that people can understand, navigate, and build on.
 
-Currently pursuing BS in Data Science and Applications at IIT Madras.
+I’m also increasingly interested in research itself — especially how ideas are developed, structured, and translated into meaningful outputs. Through my MSc and BSc work, I’ve engaged with research problems while consistently picking up new tools and techniques independently through exploration.
 
-Curiosity is what drives me, especially toward questions at the intersection of biology, technology, and space, and how systems across these domains scale, interact, and remain meaningful in real-world contexts.
+Alongside this, I lead the Localization Engineering department at Sahityika (IIT Madras’ literary society), leading initiatives and exploring integration approaches to make digital content accessible across languages. I care deeply about breaking language barriers and ensuring information reaches people beyond a single linguistic or technical context.
 
-I tend to approach things with a systems mindset, breaking down processes, improving consistency, and building routines that actually sustain over time rather than just working once.
+Currently pursuing a second bachelor’s degree in Data Science and Applications at IIT Madras, with plans to transition to Management and Data Science to better align with systems, operations, and research-focused work.
 
-Outside the lab: walking routines, fitness discipline, structured schedules, and exploring how small habits compound into long-term change.
+I’m driven by curiosity — especially around how systems work across biology, technology, and space, and how they scale without losing meaning.
 
-I’m interested in building systems that don’t just work once, but keep working consistently over time.
+I think in systems: breaking processes down, improving consistency, and building structures that don’t just work once, but keep working over time.
+
+Outside work, I focus on structured routines — walking, fitness, and habit systems — exploring how small, consistent actions compound into long-term outcomes.
