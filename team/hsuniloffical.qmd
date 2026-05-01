@@ -56,7 +56,7 @@ Dissemination Ops at iSRL — I work on making research actually move.
 
 Not just documenting it, but building the systems, workflows, and structures that take work from “done” to something usable, accessible, and out in the world.
 
-A lot of what I do sits in the messy middle — figuring things out when there’s no clear path. Whether it’s picking up unfamiliar tools like Quarto, testing until something works, or knowing when to push through versus when to ask, I focus on making things function reliably, not just theoretically.
+A lot of my work happens in the messy middle — figuring things out when there’s no clear path. Whether it’s picking up unfamiliar tools like Quarto, testing until something works, or knowing when to push through versus when to ask, I focus on making things function reliably, not just theoretically.
 
 My work is less about describing dissemination and more about making it happen — turning complex research into structured outputs that people can understand, navigate, and build on.
 
