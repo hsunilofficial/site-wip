@@ -1,13 +1,11 @@
 ---
 title: "Hitha Sunil"
 subtitle: "Dissemination Ops, iSRL"
-description: "Working on dissemination workflows, communication systems, and structured information delivery."
+description: "Gets research out the door — uploads, mirrors, metadata, and everything in between."
 order: 4
 team-role: "Dissemination Ops"
 team-track: "Core Team"
-
 image: images/hsunilofficial.jpg
-
 about:
   template: trestles
   image: images/hsunilofficial.jpg
@@ -23,7 +21,6 @@ about:
       text: hsunilofficial
       href: https://linkedin.com/in/hsunilofficial
 ---
-
 ```{=html}
 <script type="application/ld+json">
 {
@@ -31,7 +28,7 @@ about:
   "@type": "Person",
   "name": "Hitha Sunil",
   "jobTitle": "Dissemination Ops",
-  "description": "Working on dissemination workflows, communication systems, and structured information delivery at iSRL.",
+  "description": "Gets research out the door — uploads, mirrors, metadata, and everything in between at iSRL.",
   "url": "https://isrl-research.github.io/team/hsunilofficial.html",
   "email": "hsunilofficial@gmail.com",
   "identifier": "https://orcid.org/0009-0003-3747-7910",
@@ -52,22 +49,13 @@ about:
 }
 </script>
 ```
-Dissemination Ops at iSRL — I work on making research actually move.
 
-Not just documenting it, but building the systems, workflows, and structures that take work from “done” to something usable, accessible, and out in the world.
+Dissemination Ops at iSRL — once the research is done, I'm the one who gets it out.
 
-A lot of my work happens in the messy middle — figuring things out when there’s no clear path. Whether it’s picking up unfamiliar tools like Quarto, testing until something works, or knowing when to push through versus when to ask, I focus on making things function reliably, not just theoretically.
+That means Zenodo uploads, ResearchGate mirrors, metadata, versioning, and making sure every output actually lands where it's supposed to. The role exists because research that doesn't move doesn't matter, and moving it reliably is its own skill set.
 
-My work is less about describing dissemination and more about making it happen — turning complex research into structured outputs that people can understand, navigate, and build on.
+What I'm good at: picking up tools I've never used before and figuring them out — testing, poking, reading the docs, getting it to work — before asking for help. Knowing when to push through and when a question will save two hours of debugging. Quarto was new to me when I joined; it isn't anymore.
 
-I’m also increasingly interested in research itself — especially how ideas are developed, structured, and translated into meaningful outputs. Through my MSc and BSc work, I’ve engaged with research problems while consistently picking up new tools and techniques independently through exploration.
+Outside iSRL, I lead Localization Engineering at Sahityika, IIT Madras' literary society, working on making digital content accessible across languages. I'm currently completing a second bachelor's in Data Science and Applications at IIT Madras.
 
-Alongside this, I lead the Localization Engineering department at Sahityika (IIT Madras’ literary society), leading initiatives and exploring integration approaches to make digital content accessible across languages. I care deeply about breaking language barriers and ensuring information reaches people beyond a single linguistic or technical context.
-
-Currently pursuing a second bachelor’s degree in Data Science and Applications at IIT Madras, with plans to transition to Management and Data Science to better align with systems, operations, and research-focused work.
-
-I’m driven by curiosity — especially around how systems work across biology, technology, and space, and how they scale without losing meaning.
-
-I think in systems: breaking processes down, improving consistency, and building structures that don’t just work once, but keep working over time.
-
-Outside work, I focus on structured routines — walking, fitness, and habit systems — exploring how small, consistent actions compound into long-term outcomes.
+I think in systems — how processes hold together, where they break, and how to make them keep working without constant intervention.
